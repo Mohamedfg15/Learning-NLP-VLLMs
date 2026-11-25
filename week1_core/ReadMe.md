@@ -418,4 +418,4 @@ By the end of Week 1, the repository demonstrates practical experience with:
 
 **Week 1 Focus:** Establishing strong Deep Learning and Transformer engineering foundations, with practical model fine-tuning, deployment preparation, and reproducible inference workflows.
 
->>>>>>> 10bf187f5b68e2eaef01d5e7fa50630d0a268a95
+
